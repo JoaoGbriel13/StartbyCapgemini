@@ -1,3 +1,5 @@
+package ExerciciosJava;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 

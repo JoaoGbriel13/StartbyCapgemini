@@ -1,7 +1,9 @@
+package ExerciciosJava;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exercicios {
+public class Exercicios3e4 {
     public static void main(String[] args) {
         //Exercicio 3 :
         Scanner scan = new Scanner(System.in);

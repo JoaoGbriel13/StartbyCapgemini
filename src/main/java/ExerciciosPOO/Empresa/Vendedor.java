@@ -1,6 +1,4 @@
-package Empresa;
-
-import java.util.Date;
+package ExerciciosPOO.Empresa;
 
 public class Vendedor extends Funcionario {
     private int totalItensVendidos;
